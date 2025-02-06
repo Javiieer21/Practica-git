@@ -1,1 +1,2 @@
 Contenido Inicial
+Nueva línea en archivo1
